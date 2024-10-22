@@ -3,7 +3,7 @@
 🚀 About Me
 Third year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).
 
-⚙️ Technical Skills
+⚙️ Technical Skills<br>
 Backend: NodeJS, Express<br>
 Frontend: Html, Css, Javascript, Vue, React<br>
 Arduino: C++<br>
@@ -28,16 +28,12 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 40px;" alt=""/>
+</p>
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="width: 40px;" alt=""/>
 </p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 40px;" alt=""/>
 </p>
 
      
