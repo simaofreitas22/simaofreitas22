@@ -1,9 +1,9 @@
 👨‍💻 FrontEnd / BackEnd
 
-<summary><b>🚀 About Me</b></summary><br>
+<summary><b>🚀 About Me</b></summary>
 Third year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).
 
-<summary><b>⚙️ Technical Skills</b></summary><br>
+<summary><b>⚙️ Technical Skills</b></summary>
 Backend: NodeJS, Express<br>
 Frontend: Html, Css, Javascript, Vue, React<br>
 Arduino: C++<br>
@@ -13,7 +13,7 @@ Database: MySQL, MongoDB<br>
 Artificial Intelligence: Jupyter (Python)<br>
 Agile: Scrum, Kanban
 
-<summary><b>💼 Professional Opportunities</b></summary><br>
+<summary><b>💼 Professional Opportunities</b></summary>
 I am looking for challenges and opportunities that makes me feel on a continous learning
 
 <a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
