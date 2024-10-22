@@ -1,6 +1,7 @@
 # 👨‍💻 FrontEnd / BackEnd Developer
 
-**🚀 About Me**  
+**🚀 About Me** 
+<br>
 Third-year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).  
 I have a passion for building scalable web applications, focusing on both frontend and backend development.
 
