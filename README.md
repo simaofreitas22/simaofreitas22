@@ -18,7 +18,8 @@ I am looking for challenges and opportunities that makes me feel on a continous 
 
 <a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-💻 Technologies
+<hr/>
+<summary><b>💻 Technologies</b></summary>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
@@ -28,15 +29,25 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 40px;" alt=""/>
-</p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="width: 40px;" alt=""/>
-</p>
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 40px;" alt=""/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nerf22117&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</p>
+
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nerf22117&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api/top-langs/?username=Nerf22117&hide_progress=true&langs_count=6&theme=dark"  alt=""/>
+</div>
+
 
      
 
