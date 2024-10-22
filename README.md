@@ -36,6 +36,8 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 40px;" alt=""/>
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nerf22117&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
      
 
       
