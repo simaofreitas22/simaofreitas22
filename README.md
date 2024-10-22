@@ -4,12 +4,13 @@
 Third year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).
 
 ⚙️ Technical Skills
-Backend: NodeJS, Express
-Frontend: Html, Css, Javascript, Vue, React
-Testing: Jest, Selenium, Postman (API)
-UI/UX Design: Figma
-Database: MySQL, MongoDB
-Artificial Intelligence: Jupyter (Python)
+Backend: NodeJS, Express<br>
+Frontend: Html, Css, Javascript, Vue, React<br>
+Arduino: C++<br>
+Testing: Jest, Selenium, Postman (API)<br>
+UI/UX Design: Figma<br>
+Database: MySQL, MongoDB<br>
+Artificial Intelligence: Jupyter (Python)<br>
 Agile: Scrum, Kanban
 
 💼 Professional Opportunities
