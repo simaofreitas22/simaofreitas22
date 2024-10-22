@@ -1,9 +1,9 @@
-👨‍💻 FrontEnd / BackEnd
+<summary><b>👨‍💻 FrontEnd / BackEnd</b></summary>
 
-🚀 About Me<br>
+<summary><b>🚀 About Me</b></summary><br>
 Third year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).
 
-⚙️ Technical Skills<br>
+<summary><b>⚙️ Technical Skills</b></summary><br>
 Backend: NodeJS, Express<br>
 Frontend: Html, Css, Javascript, Vue, React<br>
 Arduino: C++<br>
@@ -13,13 +13,13 @@ Database: MySQL, MongoDB<br>
 Artificial Intelligence: Jupyter (Python)<br>
 Agile: Scrum, Kanban
 
-💼 Professional Opportunities<br>
+<summary><b>💼 Professional Opportunities</b></summary><br>
 I am looking for challenges and opportunities that makes me feel on a continous learning
 
 <a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr/>
-<summary><b>💻 Technologies</b></summary>
+<summary><b>💻 Technologies</b></summary><br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
@@ -34,13 +34,13 @@ I am looking for challenges and opportunities that makes me feel on a continous 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" style="width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 40px;" alt=""/>
 </p>
 
 <div>
