@@ -55,11 +55,12 @@ I'm always open to new opportunities and challenges that foster continuous learn
 
 ---
 
-** 📊 GitHub Stats** 
+**📊 GitHub Stats** 
 <br>
 
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nerf22117&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <br>
   <b>🚫 No Language Stats Here!</b><br>
   <p>
     I contribute to <b>too many awesome projects</b> for GitHub to handle! 🌍<br>
