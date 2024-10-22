@@ -16,7 +16,7 @@ Agile: Scrum, Kanban
 💼 Professional Opportunities
 I am looking for challenges and opportunities that makes me feel on a continous learning
 
-<a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 💻 Technologies
 
