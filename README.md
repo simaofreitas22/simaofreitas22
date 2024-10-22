@@ -1,4 +1,4 @@
-<summary><b>👨‍💻 FrontEnd / BackEnd</b></summary>
+👨‍💻 FrontEnd / BackEnd
 
 <summary><b>🚀 About Me</b></summary><br>
 Third year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).
