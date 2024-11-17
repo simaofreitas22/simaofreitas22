@@ -2,7 +2,7 @@
 
 **🚀 About Me**  
 <br>
-Third-year student of the Degree in Web Technologies and Information Systems (ESMAD - Escola Superior de Media Artes e Design).  
+Third-year student pursuing a Bachelor's Degree in Web Technologies and Information Systems at ESMAD (Escola Superior de Media Artes e Design). I am a resilient, goal-oriented, and proactive individual with a strong passion for technology and problem-solving. I thrive in collaborative environments, consistently focusing on delivering high-quality results while continuously expanding my technical skills and knowledge.
 
 ---
 
