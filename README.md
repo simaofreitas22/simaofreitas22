@@ -22,7 +22,7 @@ Third-year student of the Degree in Web Technologies and Information Systems (ES
 <br>  
 I'm always open to new opportunities and challenges that foster continuous learning and professional growth. Feel free to reach out!
 
-<a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sim%C3%A3o-freitas/](https://www.linkedin.com/in/simaoPFreitas" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/></a>
 
 ---
 
