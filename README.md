@@ -13,6 +13,7 @@ Third-year student pursuing a Bachelor's Degree in Web Technologies and Informat
 - **Testing**: Jest, Selenium, Postman (API)  
 - **UI/UX Design**: Figma  
 - **Database**: MySQL, MongoDB  
+- **Devops**: Docker, Docker Compose, Kubernetes  
 - **Artificial Intelligence**: Jupyter (Python)  
 - **Agile**: Scrum, Kanban  
 
