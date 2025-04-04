@@ -59,7 +59,7 @@ I'm always open to new opportunities and challenges that foster continuous learn
 
 <div>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Nerf22117&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=simaofreitas22&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
