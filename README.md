@@ -2,8 +2,7 @@
 
 **🚀 About Me**  
 <br>
-Third-year student pursuing a Bachelor's Degree in Web Technologies and Information Systems at ESMAD (Escola Superior de Media Artes e Design). I am a resilient, goal-oriented, and proactive individual with a strong passion for technology and problem-solving. I thrive in collaborative environments, consistently focusing on delivering high-quality results while continuously expanding my technical skills and knowledge.
-
+Software Engineer at EVS Broadcasting Equipment. I am a resilient, goal-oriented, and proactive individual with a strong passion for technology and problem-solving. I thrive in collaborative environments, consistently focusing on delivering high-quality results while continuously expanding my technical skills and knowledge.
 ---
 
 **⚙️ Technical Skills**  
@@ -18,10 +17,6 @@ Third-year student pursuing a Bachelor's Degree in Web Technologies and Informat
 - **Agile**: Scrum, Kanban  
 
 ---
-
-**💼 Professional Opportunities**
-<br>  
-I'm always open to new opportunities and challenges that foster continuous learning and professional growth. Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/simaoPFreitas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"/></a>
 
